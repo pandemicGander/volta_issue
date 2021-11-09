@@ -1,6 +1,10 @@
 {
   "name": "my-awesome-web-package",
   "version": "1.0.0",
+  "license": "UNLICENSED",
+  "scripts": {
+    "sub_runner": "./sub_runner.sh"
+  },
   "volta": {
     "node": "14.18.1",
     "yarn": "1.22.10"
